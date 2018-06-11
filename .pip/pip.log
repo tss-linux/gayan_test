@@ -1,0 +1,108 @@
+------------------------------------------------------------
+/home/chaths/gooass/genv/lib/python3.4/site-packages/pip/__main__.py run on Wed Jun 14 12:34:25 2017
+Downloading/unpacking google-assistant-sdk[samples]
+  Getting page https://pypi.python.org/simple/google-assistant-sdk/
+  URLs to search for versions for google-assistant-sdk[samples]:
+  * https://pypi.python.org/simple/google-assistant-sdk/
+  Analyzing links from page https://pypi.python.org/simple/google-assistant-sdk/
+    Found link https://pypi.python.org/packages/0c/ec/1fa6cfd776178fcd4a71d83bc3ac42f6385c1220b1d0a8d15196fa45e786/google_assistant_sdk-0.3.2-py2.py3-none-any.whl#md5=f827a503a044a309d48ec0db9dff14ef (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.3.2
+    Found link https://pypi.python.org/packages/1d/6b/fb117deb3875a601e324cbc9d2e7c53e94c87bc5a9a696ca5637f034f1a7/google-assistant-sdk-0.2.1.tar.gz#md5=38d344b749b1b3022f9532d198f54a60 (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.2.1
+    Found link https://pypi.python.org/packages/2d/d8/b0f6af960554d459ea4f231ce38f633a90a9ad755b895e962f9b535b2ef7/google-assistant-sdk-0.3.2.tar.gz#md5=9436d59fb70744650aae64a3e379a5fe (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.3.2
+    Found link https://pypi.python.org/packages/4f/51/290f0817e2fabe8768bcd9b4efe7cfc8a2933337fc1ac0b7890874afd7d3/google-assistant-sdk-0.3.0.tar.gz#md5=af1fe9c71e8250aa1697a690dcc54eb7 (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.3.0
+    Found link https://pypi.python.org/packages/63/23/f5e381ac29a71afa0e872336e23f69743f8ea82ce6349c4a0e7988fb0ed0/google_assistant_sdk-0.3.1-py2.py3-none-any.whl#md5=ea4d640fefc2c4bd5c4e2a2d5ded0b0d (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.3.1
+    Found link https://pypi.python.org/packages/a1/ef/c429d53c2643daad5ded61a4a379a014282994da9d492c8c58dfb28f395c/google-assistant-sdk-0.1.0.tar.gz#md5=b6ac1281047c2e61796d276ff3b8203d (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.1.0
+    Found link https://pypi.python.org/packages/ac/a4/29b3af090ab6973e653b23e71c01440bb51e303dddff4bb82bfc1f83e604/google_assistant_sdk-0.3.0-py2.py3-none-any.whl#md5=e895d0305198a12608b73ed960e8ae13 (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.3.0
+    Found link https://pypi.python.org/packages/b2/44/5d62849cdcb58e77cf090da5d35592047a6cf449f9b33079dca22bd7c36e/google_assistant_sdk-0.1.0-py2.py3-none-any.whl#md5=39f3d43897138324271b3c8f65e82aae (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.1.0
+    Found link https://pypi.python.org/packages/b9/c7/9b2943a1d4d75b7c2e4839ff9780b7dfca15236b52c4d0c2247448bab877/google-assistant-sdk-0.3.1.tar.gz#md5=141765ac056dadbd4bbe3c340313320f (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.3.1
+    Found link https://pypi.python.org/packages/ca/f5/b16846ed1ca88117e1ff3a73e7cebd5aa6e232c61be5a07cd7869cf97574/google-assistant-sdk-0.2.0.tar.gz#md5=597c27eaa442412d47cbed9e210bb26b (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.2.0
+    Found link https://pypi.python.org/packages/dc/28/34a99c18d20c67ba36c7fa45ba374b66473d46e82aa4bb9092c77a485fc9/google_assistant_sdk-0.2.0-py2.py3-none-any.whl#md5=38a6d133d9f0271fd96859ddca47b9b9 (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.2.0
+    Found link https://pypi.python.org/packages/f1/5f/e9f7f75dcad713ffee0ad9de21dc62faf96238cb5fdb3a3a6117ce7cec9b/google_assistant_sdk-0.2.1-py2.py3-none-any.whl#md5=2614b1ae744e3ef7068b03ca92e7ccac (from https://pypi.python.org/simple/google-assistant-sdk/), version: 0.2.1
+  Using version 0.3.2 (newest of versions: 0.3.2, 0.3.2, 0.3.1, 0.3.1, 0.3.0, 0.3.0, 0.2.1, 0.2.1, 0.2.0, 0.2.0, 0.1.0, 0.1.0)
+  Downloading google_assistant_sdk-0.3.2-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/0c/ec/1fa6cfd776178fcd4a71d83bc3ac42f6385c1220b1d0a8d15196fa45e786/google_assistant_sdk-0.3.2-py2.py3-none-any.whl#md5=f827a503a044a309d48ec0db9dff14ef (from https://pypi.python.org/simple/google-assistant-sdk/)
+Downloading/unpacking google-auth-oauthlib[tool]>=0.1.0 (from google-assistant-sdk[samples])
+  Getting page https://pypi.python.org/simple/google-auth-oauthlib/
+  URLs to search for versions for google-auth-oauthlib[tool]>=0.1.0 (from google-assistant-sdk[samples]):
+  * https://pypi.python.org/simple/google-auth-oauthlib/
+  Analyzing links from page https://pypi.python.org/simple/google-auth-oauthlib/
+    Found link https://pypi.python.org/packages/57/2a/2b9539e71e40b12076bf9b9aedef9e24bd03b759fd66192f33680288fb03/google-auth-oauthlib-0.0.1.tar.gz#md5=31fbffea41f876159c475c093c108f36 (from https://pypi.python.org/simple/google-auth-oauthlib/), version: 0.0.1
+    Found link https://pypi.python.org/packages/5b/c3/07c0cc6f43f520fcab7bd89c7f680ca549675036cf1abfd33d3b3f016197/google_auth_oauthlib-0.1.0-py2.py3-none-any.whl#md5=b1ff4bcbc1689cc99b75697b858da489 (from https://pypi.python.org/simple/google-auth-oauthlib/), version: 0.1.0
+    Found link https://pypi.python.org/packages/a8/77/baf570785142625e8f5ff8d44d96e1a57eb5073032ae88225ad739e5b40e/google_auth_oauthlib-0.0.1-py2.py3-none-any.whl#md5=c1e3d6081e24abbda0b42842ab778cef (from https://pypi.python.org/simple/google-auth-oauthlib/), version: 0.0.1
+    Found link https://pypi.python.org/packages/c0/ca/da90299817a82efcab48a3270e7114c164049860e2f2bb0f5e47dba110bd/google-auth-oauthlib-0.1.0.tar.gz#md5=ad71b5883a0de1bea8123245d25289b5 (from https://pypi.python.org/simple/google-auth-oauthlib/), version: 0.1.0
+  Ignoring link https://pypi.python.org/packages/57/2a/2b9539e71e40b12076bf9b9aedef9e24bd03b759fd66192f33680288fb03/google-auth-oauthlib-0.0.1.tar.gz#md5=31fbffea41f876159c475c093c108f36 (from https://pypi.python.org/simple/google-auth-oauthlib/), version 0.0.1 doesn't match >=0.1.0
+  Ignoring link https://pypi.python.org/packages/a8/77/baf570785142625e8f5ff8d44d96e1a57eb5073032ae88225ad739e5b40e/google_auth_oauthlib-0.0.1-py2.py3-none-any.whl#md5=c1e3d6081e24abbda0b42842ab778cef (from https://pypi.python.org/simple/google-auth-oauthlib/), version 0.0.1 doesn't match >=0.1.0
+  Using version 0.1.0 (newest of versions: 0.1.0, 0.1.0)
+  Downloading google_auth_oauthlib-0.1.0-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/5b/c3/07c0cc6f43f520fcab7bd89c7f680ca549675036cf1abfd33d3b3f016197/google_auth_oauthlib-0.1.0-py2.py3-none-any.whl#md5=b1ff4bcbc1689cc99b75697b858da489 (from https://pypi.python.org/simple/google-auth-oauthlib/)
+Downloading/unpacking tenacity==4.1.0 (from google-assistant-sdk[samples])
+  Getting page https://pypi.python.org/simple/tenacity/
+  URLs to search for versions for tenacity==4.1.0 (from google-assistant-sdk[samples]):
+  * https://pypi.python.org/simple/tenacity/4.1.0
+  * https://pypi.python.org/simple/tenacity/
+  Getting page https://pypi.python.org/simple/tenacity/4.1.0
+  Could not fetch URL https://pypi.python.org/simple/tenacity/4.1.0: 404 Client Error: Not Found
+  Will skip URL https://pypi.python.org/simple/tenacity/4.1.0 when looking for download links for tenacity==4.1.0 (from google-assistant-sdk[samples])
+  Analyzing links from page https://pypi.python.org/simple/tenacity/
+    Found link https://pypi.python.org/packages/05/8d/ea0b500282bccc423d5a1cc088b168c1a5ba7ad2e81356c52b95c55aaad9/tenacity-3.1.0.tar.gz#md5=c4f57183a8b06df56d7f40de380968fc (from https://pypi.python.org/simple/tenacity/), version: 3.1.0
+    Found link https://pypi.python.org/packages/1d/51/dc743d253901f1fc22bb132b46bdd78032b8e974806390bf675ed3e00dae/tenacity-3.1.1.tar.gz#md5=fbcb28328f3cf715654f998cbe285121 (from https://pypi.python.org/simple/tenacity/), version: 3.1.1
+    Found link https://pypi.python.org/packages/20/bb/f3d1ec11221f7b1610da86cc3d6cb1cbe74d45d073d16832900d81b60e4c/tenacity-3.0.0.tar.gz#md5=09a6c9e1e4c2792c8dd8c74ddc39c7f0 (from https://pypi.python.org/simple/tenacity/), version: 3.0.0
+    Found link https://pypi.python.org/packages/42/e7/1b5acde23073873a3f463ed4da538e7457113d1e2ff58256fc6bf18bc72b/tenacity-4.1.0.tar.gz#md5=03086f36d155559bf77b9eb770dc24ed (from https://pypi.python.org/simple/tenacity/), version: 4.1.0
+    Found link https://pypi.python.org/packages/49/4e/fc48f9f7543208b2cba9a4ece316ac928359c39433ef6e01e5a0b93f8973/tenacity-3.2.1.tar.gz#md5=d5b706fab76eb2e198ece432a833390f (from https://pypi.python.org/simple/tenacity/), version: 3.2.1
+    Found link https://pypi.python.org/packages/53/26/f5cd22ab973526638fd507ddcfb3dfd628702acce8fe62e2df4eccca57ba/tenacity-3.3.0.tar.gz#md5=bbbd6e76c255daaf7b89a58c1b858cdc (from https://pypi.python.org/simple/tenacity/), version: 3.3.0
+    Found link https://pypi.python.org/packages/6d/74/8d94850688afc84827f9b85005d6a69c0587b656a7ba1eb7527ed6a52678/tenacity-3.6.0.tar.gz#md5=245d502f934b95d68532c0165624aa79 (from https://pypi.python.org/simple/tenacity/), version: 3.6.0
+    Found link https://pypi.python.org/packages/7d/48/8a62f4cea08d612190953385b7eaea7873a259dd2c65745bb7287579539d/tenacity-2.0.0.tar.gz#md5=3ba878640f6955629c0a1810cec23781 (from https://pypi.python.org/simple/tenacity/), version: 2.0.0
+    Found link https://pypi.python.org/packages/7f/12/055a427058f259c5cfe9e706834d2eae8ef4bf50c7ec15000e6b721e138c/tenacity-3.4.0.tar.gz#md5=499dab3b08705bb2e531b874c82b3843 (from https://pypi.python.org/simple/tenacity/), version: 3.4.0
+    Found link https://pypi.python.org/packages/83/9b/80397c36b74d0b78a3a0241e6272bc73e7b470fbb964ccb38a291e35448f/tenacity-3.7.0.tar.gz#md5=2de6a4124170faf3042bb512051ad67f (from https://pypi.python.org/simple/tenacity/), version: 3.7.0
+    Found link https://pypi.python.org/packages/a2/98/cf94a37f636814ad7317f513165755eefcc3db064db73c8ff5ff2726f2c9/tenacity-4.0.0.tar.gz#md5=822bcc468d5dc337bc416cb5b1408022 (from https://pypi.python.org/simple/tenacity/), version: 4.0.0
+    Found link https://pypi.python.org/packages/b0/3c/33484a9d18df82421e3b90cb750a68a7e3d8835fb7c34115ddb89cb41599/tenacity-3.2.0.tar.gz#md5=01e83c10944bb647f08093ef493a968d (from https://pypi.python.org/simple/tenacity/), version: 3.2.0
+    Found link https://pypi.python.org/packages/b2/06/e8ec6db77855577840ce15327d97a11d4c1c1f5d2bf31271d8d6a507f44f/tenacity-3.7.1.tar.gz#md5=b4d231e7942961531b69bd806343f846 (from https://pypi.python.org/simple/tenacity/), version: 3.7.1
+    Found link https://pypi.python.org/packages/cb/e9/f2fda321628cf41057c7afab089bae05b14d1c25c64c26a059ca6f696f87/tenacity-4.0.1.tar.gz#md5=65e78f3f01adc7641c71beafbdac2d78 (from https://pypi.python.org/simple/tenacity/), version: 4.0.1
+    Found link https://pypi.python.org/packages/db/7a/d96512cad81accf7a0cb19b13e7fd4ec817a188e53f25a608238bea8aee1/tenacity-3.5.0.tar.gz#md5=426e6cadaec928efd2d671c235b3501e (from https://pypi.python.org/simple/tenacity/), version: 3.5.0
+  Ignoring link https://pypi.python.org/packages/05/8d/ea0b500282bccc423d5a1cc088b168c1a5ba7ad2e81356c52b95c55aaad9/tenacity-3.1.0.tar.gz#md5=c4f57183a8b06df56d7f40de380968fc (from https://pypi.python.org/simple/tenacity/), version 3.1.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/1d/51/dc743d253901f1fc22bb132b46bdd78032b8e974806390bf675ed3e00dae/tenacity-3.1.1.tar.gz#md5=fbcb28328f3cf715654f998cbe285121 (from https://pypi.python.org/simple/tenacity/), version 3.1.1 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/20/bb/f3d1ec11221f7b1610da86cc3d6cb1cbe74d45d073d16832900d81b60e4c/tenacity-3.0.0.tar.gz#md5=09a6c9e1e4c2792c8dd8c74ddc39c7f0 (from https://pypi.python.org/simple/tenacity/), version 3.0.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/49/4e/fc48f9f7543208b2cba9a4ece316ac928359c39433ef6e01e5a0b93f8973/tenacity-3.2.1.tar.gz#md5=d5b706fab76eb2e198ece432a833390f (from https://pypi.python.org/simple/tenacity/), version 3.2.1 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/53/26/f5cd22ab973526638fd507ddcfb3dfd628702acce8fe62e2df4eccca57ba/tenacity-3.3.0.tar.gz#md5=bbbd6e76c255daaf7b89a58c1b858cdc (from https://pypi.python.org/simple/tenacity/), version 3.3.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/6d/74/8d94850688afc84827f9b85005d6a69c0587b656a7ba1eb7527ed6a52678/tenacity-3.6.0.tar.gz#md5=245d502f934b95d68532c0165624aa79 (from https://pypi.python.org/simple/tenacity/), version 3.6.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/7d/48/8a62f4cea08d612190953385b7eaea7873a259dd2c65745bb7287579539d/tenacity-2.0.0.tar.gz#md5=3ba878640f6955629c0a1810cec23781 (from https://pypi.python.org/simple/tenacity/), version 2.0.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/7f/12/055a427058f259c5cfe9e706834d2eae8ef4bf50c7ec15000e6b721e138c/tenacity-3.4.0.tar.gz#md5=499dab3b08705bb2e531b874c82b3843 (from https://pypi.python.org/simple/tenacity/), version 3.4.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/83/9b/80397c36b74d0b78a3a0241e6272bc73e7b470fbb964ccb38a291e35448f/tenacity-3.7.0.tar.gz#md5=2de6a4124170faf3042bb512051ad67f (from https://pypi.python.org/simple/tenacity/), version 3.7.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/a2/98/cf94a37f636814ad7317f513165755eefcc3db064db73c8ff5ff2726f2c9/tenacity-4.0.0.tar.gz#md5=822bcc468d5dc337bc416cb5b1408022 (from https://pypi.python.org/simple/tenacity/), version 4.0.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/b0/3c/33484a9d18df82421e3b90cb750a68a7e3d8835fb7c34115ddb89cb41599/tenacity-3.2.0.tar.gz#md5=01e83c10944bb647f08093ef493a968d (from https://pypi.python.org/simple/tenacity/), version 3.2.0 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/b2/06/e8ec6db77855577840ce15327d97a11d4c1c1f5d2bf31271d8d6a507f44f/tenacity-3.7.1.tar.gz#md5=b4d231e7942961531b69bd806343f846 (from https://pypi.python.org/simple/tenacity/), version 3.7.1 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/cb/e9/f2fda321628cf41057c7afab089bae05b14d1c25c64c26a059ca6f696f87/tenacity-4.0.1.tar.gz#md5=65e78f3f01adc7641c71beafbdac2d78 (from https://pypi.python.org/simple/tenacity/), version 4.0.1 doesn't match ==4.1.0
+  Ignoring link https://pypi.python.org/packages/db/7a/d96512cad81accf7a0cb19b13e7fd4ec817a188e53f25a608238bea8aee1/tenacity-3.5.0.tar.gz#md5=426e6cadaec928efd2d671c235b3501e (from https://pypi.python.org/simple/tenacity/), version 3.5.0 doesn't match ==4.1.0
+  Downloading tenacity-4.1.0.tar.gz
+  Downloading from URL https://pypi.python.org/packages/42/e7/1b5acde23073873a3f463ed4da538e7457113d1e2ff58256fc6bf18bc72b/tenacity-4.1.0.tar.gz#md5=03086f36d155559bf77b9eb770dc24ed (from https://pypi.python.org/simple/tenacity/)
+Cleaning up...
+setuptools must be installed to install from a source distribution
+Exception information:
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 2218, in _find_and_load_unlocked
+AttributeError: 'module' object has no attribute '__path__'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chaths/gooass/genv/lib/python3.4/site-packages/pip/req.py", line 266, in setup_py
+    import setuptools
+  File "/home/chaths/gooass/genv/lib/python3.4/site-packages/setuptools/__init__.py", line 10, in <module>
+    from setuptools.extern.six.moves import filter, map
+  File "/home/chaths/gooass/genv/lib/python3.4/site-packages/setuptools/extern/__init__.py", line 1, in <module>
+    from pkg_resources.extern import VendorImporter
+ImportError: No module named 'pkg_resources.extern'; 'pkg_resources' is not a package
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chaths/gooass/genv/lib/python3.4/site-packages/pip/basecommand.py", line 122, in main
+    status = self.run(options, args)
+  File "/home/chaths/gooass/genv/lib/python3.4/site-packages/pip/commands/install.py", line 290, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/home/chaths/gooass/genv/lib/python3.4/site-packages/pip/req.py", line 1230, in prepare_files
+    req_to_install.run_egg_info()
+  File "/home/chaths/gooass/genv/lib/python3.4/site-packages/pip/req.py", line 293, in run_egg_info
+    logger.notify('Running setup.py (path:%s) egg_info for package %s' % (self.setup_py, self.name))
+  File "/home/chaths/gooass/genv/lib/python3.4/site-packages/pip/req.py", line 270, in setup_py
+    "setuptools must be installed to install from a source "
+pip.exceptions.InstallationError: setuptools must be installed to install from a source distribution
